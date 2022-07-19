@@ -1,5 +1,6 @@
 package part_one;
 
+import edu.princeton.cs.algs4.Knuth;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdRandom;
 
