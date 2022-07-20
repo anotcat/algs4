@@ -29,4 +29,28 @@ public class DijkstraEvaluate {
         }
         StdOut.println(vals.pop());
     }
+/*
+private void resize(int max) {
+        // Move stack of size N <= max to a new array of size max
+        Item[] temp = (Item[]) new Object[max];
+        for (int i = 0; i < N; i++) {
+            temp[i] = a[i];
+        }
+        a = temp;
+    }
+
+    private void push(String item) {
+        // add item to top of stack
+        if (N == a.length) resize(2*a.length);
+        a[N++] = item;
+    }
+
+    private String pop(){
+        // Remove item from top of stack.
+        String item = a[--N];
+        a[N] = null; // Avoid loitering (see text).
+        if (N > 0 && N == a.length/4) resize(a.length/2);
+        return item;
+    }
+ */
 }
