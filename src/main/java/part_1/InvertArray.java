@@ -1,4 +1,4 @@
-package part_one;
+package part_1;
 
 public class InvertArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package part_one;
+package part_1;
 
 public class FIFOQueue<Item> {
     private Node first; // link to least recently added node

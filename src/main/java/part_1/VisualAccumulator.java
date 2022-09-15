@@ -1,4 +1,4 @@
-package part_one;
+package part_1;
 
 import edu.princeton.cs.algs4.Bag;
 import edu.princeton.cs.algs4.Queue;

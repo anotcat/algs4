@@ -1,10 +1,7 @@
-package part_one;
+package part_1;
 
-import edu.princeton.cs.algs4.BinomialMinPQ;
 import edu.princeton.cs.algs4.StdDraw;
 import edu.princeton.cs.algs4.StdRandom;
-
-import java.util.Arrays;
 
 public class DrawSomthing {
     public static void main(String[] args) {

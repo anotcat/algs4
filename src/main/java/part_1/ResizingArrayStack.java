@@ -1,4 +1,4 @@
-package part_one;
+package part_1;
 
 import java.util.Iterator;
 import java.util.Spliterator;
